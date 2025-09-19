@@ -1,2 +1,1 @@
-# Weketeng-Ke
-Generative AI Programming
+# Generative AI Training
