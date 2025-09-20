@@ -1,1 +1,1 @@
-# Generative AI Training
+# Generative Artificial Intelligence (Generative AI) is a rapidly evolving field of AI that focuses on building models capable of creating new and original content by learning patterns from existing data. Unlike traditional AI systems that mainly recognize, classify, or predict based on input, generative AI systems go a step further by producing novel outputs—whether text, images, audio, video, code, or even 3D simulation.
