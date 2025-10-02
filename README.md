@@ -1,7 +1,18 @@
 # Jac Financial Advisor
 
-This is a simple **JacLang** project that uses **Generative AI** to provide financial education and advice in a structured format.  
-It demonstrates how to use `jaclang` together with an LLM model.
+This is a simple **JacLang project** that uses **Generative AI** to provide financial education and structured advice.  
+It demonstrates how to integrate **JacLang** with a **Large Language Model (LLM)** using the `byllm` library.  
+
+The goal of this project is to:
+- Show how JacLang can be used to build interactive AI-powered applications.  
+- Teach how to define **nodes**, **walkers**, and **objects** to structure information.  
+- Provide a practical example of using **LLMs** for financial literacy.  
+
+This project is beginner-friendly and can serve as a **learning exercise** in:
+- JacLang fundamentals (nodes, walkers, and entry points).  
+- Prompt engineering inside JacLang walkers.  
+- Working with external APIs (OpenAI GPT models).  
+- Building command-line AI assistants.  
 
 ---
 
